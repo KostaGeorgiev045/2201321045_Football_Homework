@@ -1,0 +1,15 @@
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\bin\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.exe
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\bin\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.deps.json
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\bin\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.runtimeconfig.json
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\bin\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.dll
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\bin\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.pdb
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.csproj.AssemblyReference.cache
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.AssemblyInfoInputs.cache
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.AssemblyInfo.cs
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.csproj.CoreCompileInputs.cache
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.dll
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\refint\Kosta_2201321045_OOP_FootballHomework.dll
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.pdb
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\Kosta_2201321045_OOP_FootballHomework.genruntimeconfig.cache
+D:\C# but now with VS2022\Kosta_2201321045_OOP_FootballHomework\Kosta_2201321045_OOP_FootballHomework\obj\Debug\net7.0\ref\Kosta_2201321045_OOP_FootballHomework.dll
