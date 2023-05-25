@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# but now with VS2022\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj": {}
+    "C:\\Users\\barzi\\Documents\\GitHub\\2201321045_Football_Homework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj": {}
   },
   "projects": {
-    "D:\\C# but now with VS2022\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj": {
+    "C:\\Users\\barzi\\Documents\\GitHub\\2201321045_Football_Homework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# but now with VS2022\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj",
+        "projectUniqueName": "C:\\Users\\barzi\\Documents\\GitHub\\2201321045_Football_Homework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj",
         "projectName": "Kosta_2201321045_OOP_FootballHomework",
-        "projectPath": "D:\\C# but now with VS2022\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj",
+        "projectPath": "C:\\Users\\barzi\\Documents\\GitHub\\2201321045_Football_Homework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework.csproj",
         "packagesPath": "C:\\Users\\barzi\\.nuget\\packages\\",
-        "outputPath": "D:\\C# but now with VS2022\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\obj\\",
+        "outputPath": "C:\\Users\\barzi\\Documents\\GitHub\\2201321045_Football_Homework\\Kosta_2201321045_OOP_FootballHomework\\Kosta_2201321045_OOP_FootballHomework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

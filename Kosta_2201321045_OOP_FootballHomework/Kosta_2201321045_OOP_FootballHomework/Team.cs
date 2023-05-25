@@ -26,7 +26,9 @@ namespace Kosta_2201321045_OOP_FootballHomework
                 totalAge += player.Age;
             }
 
-            return totalAge / Players.Count;
+            totalAge = totalAge / Players.Count;
+
+            return Math.Round(totalAge);
         }
 
     }

@@ -12,7 +12,7 @@ namespace Kosta_2201321045_OOP_FootballHomework
 
         public int Age { get; private set; }
 
-        protected Person(string name, int age)
+        public Person(string name, int age)
         {
             Name = name;
             Age = age;

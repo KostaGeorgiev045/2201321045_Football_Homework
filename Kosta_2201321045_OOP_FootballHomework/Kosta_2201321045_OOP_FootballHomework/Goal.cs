@@ -10,7 +10,5 @@ namespace Kosta_2201321045_OOP_FootballHomework
     {
         public int Minute { get; set; }
         public FootballPlayer Player { get; set; }
-
-        
     }
 }

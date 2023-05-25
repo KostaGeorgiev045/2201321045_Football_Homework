@@ -29,6 +29,7 @@ namespace Kosta_2201321045_OOP_FootballHomework
             Goals = new List<Goal>();
         }
 
+
         public void AddGoal(int minute, FootballPlayer player)
         {
             Goals.Add(new Goal { Minute = minute, Player = player });

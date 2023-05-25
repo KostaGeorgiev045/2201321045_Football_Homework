@@ -11,11 +11,16 @@ namespace Kosta_2201321045_OOP_FootballHomework
         public int Number { get; private set; }
         public double Height { get; private set; }
 
-        protected FootballPlayer(string name, int age, int number, double height) 
+        public FootballPlayer(string name, int age, int number, double height) 
             :base(name, age)
         {
             Number = number;
             Height = height;
+        }
+
+        public override string ToString()
+        {
+            return Name;
         }
     }
 }
